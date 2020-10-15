@@ -22,8 +22,10 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header"></header>
-      <SignOut auth={auth} />
+      <header>
+        <h1>React SuperChat! ⚛️</h1>
+        <SignOut auth={auth} />
+      </header>
       <section>
         {/* checks to verify is user is signed in so that it can display the chat */}
         {user ? (
