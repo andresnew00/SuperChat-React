@@ -16,6 +16,7 @@ firebase.initializeApp({
   appId: "1:858289740301:web:036d54e4411d6de3ca9344",
 });
 
+
 export default function Chatroom(props) {
   // this will be the reference to the collection in firebase
   const messageRef = props.firestore.collection("messages");
