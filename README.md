@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React SuperChat
+
+This is a react / firebase project of a super chat where you can log in with google and access a chat where you can talk to other log in users.
+
+
 
 ## Available Scripts
 
