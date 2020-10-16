@@ -4,7 +4,7 @@ This is a react / firebase project of a super chat where you can log in with goo
 
 ## Screenshots
 
-![capture](http://Capture.PNG)
+![capture](./Capture.PNG)
 
 ## Available Scripts
 
